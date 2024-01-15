@@ -8,6 +8,7 @@ import folium
 from folium.plugins import MarkerCluster
 from IPython.display import display
 from streamlit_folium import folium_static
+import streamlit_folium
 
 # Load data
 st.set_page_config(page_title="Bike_Store🚴‍", page_icon="bike-store-high-resolution-logo-transparent.png", layout="wide")
